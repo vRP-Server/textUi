@@ -1,7 +1,8 @@
 # textUi
 
-# Original Creator
-https://github.com/dsheedes/cd_drawtextui
+edited version of dsheedes cd_drawtextui
+
+- Original Creator: https://github.com/dsheedes/cd_drawtextui
 
 # INSTALLATION GUIDE
 **1.** Clone the repository or Code > Download zip
